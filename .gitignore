@@ -87,3 +87,5 @@ ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 .nfs*
+.omc/
+.omx/
